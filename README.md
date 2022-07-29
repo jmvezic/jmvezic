@@ -2,11 +2,9 @@ Junior Data Engineer at [Cognism](https://www.cognism.com/).
 
 Developer. Librarian. Metadata and interoperability fanatic.
 
-🌱 Currently learning Scala.
+⚡ Languages: PHP, JavaScript/JQuery, Python 3 (fav), SQL, SPARQL, Scala, Akka
 
-⚡ Languages: PHP, JavaScript/JQuery, Python 3 (fav), SQL
-
-💬 Familiar with: MARC21 and/or UNIMARC, Z39.50 parsing, Dublin Core, ONIX, JSON-LD, Crossref integration, ORCID integration, citations and bibliography handling, etc.
+💬 Familiar with a plethora of metadata schemas, standards and systems: MODS, DC, RDF, RIS, BibTeX, CSV, TSV, DataCite, DOI, ORCID, OpenCitations, ONIX, MARC21 and UNIMARC, etc. Very experienced in handling XMLs with XPath and experienced with JSON, including JSON-LD. Also familiar with SQL and SPARQL.
 
 Previously:
 - [SRCE](https://www.srce.unizg.hr/en/), worked on [Dabar](https://dabar.srce.hr/en/dabar), a repository system for Croatian higher-education and science institutions, as well as maintaining [Hrčak OJS](https://hrcak.srce.hr/ojs/) and [Web Curator Tool](https://github.com/WebCuratorTool/webcurator)
