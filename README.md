@@ -1,4 +1,4 @@
-Developer. Librarian. Metadata and interoperability fanatic.
+Software Engineer at [Rentlio](https://rentl.io/)
 
 ⚡ Languages: PHP, JavaScript/JQuery, Python 3 (fav), SQL, SPARQL, Scala
 
