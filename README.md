@@ -1,6 +1,6 @@
 Software Engineer at [Rentlio](https://rentl.io/)
 
-⚡ Languages: PHP, JavaScript/JQuery, Python 3 (fav), SQL, SPARQL, Scala
+⚡ Languages: PHP, JavaScript/JQuery, Python 3 (fav), SQL, SPARQL, Scala, GoLang
 
 💬 Familiar with a plethora of metadata schemas, standards and systems: MODS, DC, RDF, RIS, BibTeX, CSV, TSV, DataCite, DOI, ORCID, OpenCitations, ONIX, MARC21 and UNIMARC, etc. Very experienced in handling XMLs with XPath and experienced with JSON, including JSON-LD. Also familiar with SQL and SPARQL.
 
